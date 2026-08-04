@@ -1,0 +1,29 @@
+{
+  "slug": "quadruped",
+  "title": "Sleipnir - Quadruped Robot",
+  "description": "A custom 4-legged robot platform focused on gait control, mechanical design, and embedded real-time motion experiments.",
+  "technologies": ["ESP32", "PCA9685", "Fusion 360", "Servo Control", "Inverse Kinematics"],
+  "images": [
+    {
+      "src": "assets/projects/quadruped/chassis.svg",
+      "alt": "Quadruped chassis render",
+      "caption": "Mechanical chassis concept and frame layout."
+    },
+    {
+      "src": "assets/projects/quadruped/gait.svg",
+      "alt": "Quadruped gait testing",
+      "caption": "Gait testing timeline for coordinated leg movement."
+    }
+  ],
+  "github": "https://github.com/shivam-sensei",
+  "website": "",
+  "documentation": "",
+  "year": "2026",
+  "status": "In progress",
+  "tags": ["Robotics", "Embedded", "Locomotion"],
+  "highlights": [
+    "Designed a full 2-DOF per leg structure for rapid prototyping.",
+    "Built stable power and actuator control around ESP32 and PCA9685.",
+    "Currently iterating gait logic and inverse kinematics tuning."
+  ]
+}

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+  <rect width="800" height="450" fill="#090f16"/>
+  <text x="400" y="56" fill="#c8e8c7" font-family="JetBrains Mono, monospace" font-size="24" text-anchor="middle">Gateway Telemetry Dashboard</text>
+  <rect x="90" y="100" width="620" height="280" rx="14" fill="#131c26" stroke="#304050"/>
+  <rect x="120" y="135" width="180" height="90" rx="10" fill="#1f2d3a"/>
+  <rect x="320" y="135" width="180" height="90" rx="10" fill="#1f2d3a"/>
+  <rect x="520" y="135" width="160" height="90" rx="10" fill="#1f2d3a"/>
+  <polyline points="130,315 210,270 280,290 350,245 430,260 500,220 580,240 665,205" fill="none" stroke="#89c78a" stroke-width="4"/>
+  <line x1="120" y1="330" x2="680" y2="330" stroke="#2d3d4d"/>
+  <line x1="120" y1="250" x2="680" y2="250" stroke="#2d3d4d"/>
+</svg>

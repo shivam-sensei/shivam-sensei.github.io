@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+  <rect width="800" height="450" fill="#080f16"/>
+  <rect x="120" y="60" width="560" height="320" rx="16" fill="#121c27" stroke="#7fdb7f" stroke-opacity="0.28"/>
+  <rect x="120" y="60" width="560" height="44" rx="16" fill="#1a2430"/>
+  <rect x="148" y="130" width="220" height="110" rx="10" fill="#223141"/>
+  <rect x="388" y="130" width="260" height="18" rx="4" fill="#2f4254"/>
+  <rect x="388" y="160" width="220" height="18" rx="4" fill="#2f4254"/>
+  <rect x="388" y="190" width="180" height="18" rx="4" fill="#2f4254"/>
+  <rect x="148" y="258" width="500" height="90" rx="10" fill="#101822" stroke="#2f4254"/>
+  <text x="400" y="38" fill="#c7e7c5" font-family="JetBrains Mono, monospace" font-size="24" text-anchor="middle">Project Viewer</text>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+  <rect width="800" height="450" fill="#0c131a"/>
+  <rect x="210" y="160" width="380" height="130" rx="18" fill="#1a2430" stroke="#7fdb7f" stroke-opacity="0.4"/>
+  <rect x="150" y="130" width="80" height="70" rx="10" fill="#223042"/>
+  <rect x="570" y="130" width="80" height="70" rx="10" fill="#223042"/>
+  <rect x="150" y="250" width="80" height="70" rx="10" fill="#223042"/>
+  <rect x="570" y="250" width="80" height="70" rx="10" fill="#223042"/>
+  <text x="400" y="80" fill="#b6e2b4" font-family="JetBrains Mono, monospace" font-size="28" text-anchor="middle">Sleipnir Chassis</text>
+</svg>

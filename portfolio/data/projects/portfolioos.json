@@ -1,0 +1,29 @@
+{
+  "slug": "portfolioos",
+  "title": "PortfolioOS",
+  "description": "A terminal-first developer portfolio with window management, command rendering, and app-style project exploration.",
+  "technologies": ["Vanilla JavaScript", "HTML", "CSS", "Window Manager", "Command Renderer"],
+  "images": [
+    {
+      "src": "assets/projects/portfolioos/desktop.svg",
+      "alt": "PortfolioOS desktop view",
+      "caption": "Desktop workspace with terminal and taskbar."
+    },
+    {
+      "src": "assets/projects/portfolioos/project-viewer.svg",
+      "alt": "PortfolioOS project viewer",
+      "caption": "Project detail application window with linked assets."
+    }
+  ],
+  "github": "https://github.com/shivam-sensei/shivam-sensei.github.io",
+  "website": "",
+  "documentation": "",
+  "year": "2026",
+  "status": "Active",
+  "tags": ["Frontend", "UI Systems", "Developer Experience"],
+  "highlights": [
+    "Built a lightweight reusable window manager for multiple app windows.",
+    "Introduced structured command output models for scalable rendering.",
+    "Designed project loading around JSON data for easy manual updates."
+  ]
+}

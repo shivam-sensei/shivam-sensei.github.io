@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PortfolioOS</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="boot-screen">
+        <pre id="boot-text"></pre>
+    </div>
+
+    <div id="desktop" class="hidden"></div>
+
+    <div id="taskbar">
+        <div id="taskbar-start">
+            <span class="taskbar-logo">◉</span>
+            <span>PortfolioOS</span>
+        </div>
+        <div id="taskbar-apps"></div>
+        <div id="taskbar-clock">--:--</div>
+    </div>
+
+    <script src="js/window-manager.js"></script>
+    <script src="js/terminal-renderer.js"></script>
+    <script src="js/boot.js"></script>
+    <script src="js/shell.js"></script>
+    <script src="js/terminal.js"></script>
+    <script src="js/commands.js"></script>
+</body>
+</html>

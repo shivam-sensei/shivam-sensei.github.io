@@ -1,0 +1,29 @@
+{
+  "slug": "iot-gateway",
+  "title": "Industrial IoT Gateway",
+  "description": "A gateway prototype that bridges industrial field data to cloud services using standard protocol adapters and telemetry pipelines.",
+  "technologies": ["MQTT", "Modbus RTU/TCP", "REST APIs", "Edge Runtime", "Sensor Integration"],
+  "images": [
+    {
+      "src": "assets/projects/iot-gateway/architecture.svg",
+      "alt": "IoT gateway architecture",
+      "caption": "Protocol bridge from shop-floor devices to cloud endpoints."
+    },
+    {
+      "src": "assets/projects/iot-gateway/dashboard.svg",
+      "alt": "Monitoring dashboard placeholder",
+      "caption": "Telemetry output and status dashboard overview."
+    }
+  ],
+  "github": "https://github.com/shivam-sensei",
+  "website": "",
+  "documentation": "",
+  "year": "2026",
+  "status": "Prototype",
+  "tags": ["Industrial IoT", "Gateway", "Protocols"],
+  "highlights": [
+    "Explored secure protocol translation for mixed industrial buses.",
+    "Built early-stage telemetry ingestion and API normalization flows.",
+    "Prepared deployment-ready configuration structure for field expansion."
+  ]
+}

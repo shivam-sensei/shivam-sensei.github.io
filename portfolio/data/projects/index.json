@@ -1,0 +1,25 @@
+{
+  "projects": [
+    {
+      "slug": "quadruped",
+      "title": "Sleipnir - Quadruped Robot",
+      "file": "quadruped.json",
+      "year": "2026",
+      "status": "In progress"
+    },
+    {
+      "slug": "portfolioos",
+      "title": "PortfolioOS",
+      "file": "portfolioos.json",
+      "year": "2026",
+      "status": "Active"
+    },
+    {
+      "slug": "iot-gateway",
+      "title": "Industrial IoT Gateway",
+      "file": "iot-gateway.json",
+      "year": "2026",
+      "status": "Prototype"
+    }
+  ]
+}

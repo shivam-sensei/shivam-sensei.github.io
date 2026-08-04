@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+  <rect width="800" height="450" fill="#091017"/>
+  <rect x="70" y="55" width="660" height="330" rx="18" fill="#111a23" stroke="#7fdb7f" stroke-opacity="0.3"/>
+  <rect x="70" y="385" width="660" height="30" rx="10" fill="#101820"/>
+  <rect x="105" y="95" width="420" height="245" rx="12" fill="#0a1118" stroke="#2e3c4a"/>
+  <rect x="540" y="120" width="150" height="180" rx="12" fill="#151f2a" stroke="#2e3c4a"/>
+  <text x="400" y="38" fill="#c7e7c5" font-family="JetBrains Mono, monospace" font-size="24" text-anchor="middle">PortfolioOS Desktop</text>
+</svg>
